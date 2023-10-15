@@ -127,3 +127,4 @@ dmypy.json
 *.mov
 *.json
 *.txt
+flask_session/
